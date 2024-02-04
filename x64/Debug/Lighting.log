@@ -1,0 +1,817 @@
+﻿  main.cpp
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\sphere.h(250,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\sphere.h(251,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\sphere.h(253,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(40,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(40,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(40,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(41,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(41,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(41,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(42,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(42,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(42,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(43,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(43,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(43,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(44,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(44,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(44,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(45,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(45,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(45,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(46,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(46,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(46,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(47,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(47,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(47,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(55,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(55,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(55,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(56,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(56,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(56,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(57,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(57,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(57,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(58,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(58,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(59,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(59,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(59,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(67,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(67,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(67,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(68,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(68,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(68,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(69,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(69,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(70,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(70,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(70,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(71,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(71,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(71,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(72,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(72,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(72,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(73,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(73,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(73,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(74,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(74,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(74,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(82,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(82,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(82,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(83,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(83,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(83,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(84,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(84,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(84,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(85,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(85,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(85,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(86,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(86,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(86,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(87,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(87,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(87,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(88,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(88,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(88,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(89,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(89,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(89,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(90,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(90,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(90,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(91,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(91,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(92,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(92,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(92,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(93,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(93,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(93,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(94,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(94,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(94,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(95,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(95,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(95,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(96,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(96,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(96,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(97,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(97,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(98,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(98,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(98,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(99,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(99,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(99,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(100,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(100,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(100,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(101,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(101,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(101,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(102,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(102,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(102,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(103,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(103,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(103,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(104,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(104,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(104,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(105,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(105,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(105,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(106,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(106,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(106,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(107,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(107,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(107,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(108,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(108,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(108,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(109,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(109,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(109,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(110,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(110,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(110,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(111,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(111,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(111,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(112,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(112,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(112,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(113,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(113,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(113,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(878,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(878,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(878,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(887,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(887,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(887,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(896,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(896,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(896,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(905,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(905,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(905,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(914,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(914,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(914,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(923,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(923,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(923,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(1058,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(1061,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(1071,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(1077,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(1078,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(1197,47): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(1198,52): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(1199,34): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(1202,74): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(1203,74): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(1204,74): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(1205,74): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(1207,74): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(1208,74): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(1209,74): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(1210,74): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(1214,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(1221,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\main.cpp(1228,29): warning C4305: '+=': truncation from 'double' to 'float'
+  Lighting.vcxproj -> C:\Users\Administrator\Desktop\4-2\Lab\Graphics\lab-04\assignment\x64\Debug\Lighting.exe
